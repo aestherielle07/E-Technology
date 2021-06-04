@@ -1,14 +1,3 @@
-![Lopina](https://user-images.githubusercontent.com/85336913/120768954-3b206880-c54f-11eb-9fb0-d37459a925be.jpg)
-![Macaspac](https://user-images.githubusercontent.com/85336913/120768962-3cea2c00-c54f-11eb-903b-9e5f8043ca60.jpg)
-![Maybuena](https://user-images.githubusercontent.com/85336913/120768964-3d82c280-c54f-11eb-9d78-b774badc1b94.jpg)
-![Peñarila](https://user-images.githubusercontent.com/85336913/120768967-3e1b5900-c54f-11eb-8d98-2a4b6a6c2b22.jpg)
-![Roquid](https://user-images.githubusercontent.com/85336913/120768969-3eb3ef80-c54f-11eb-898c-e7efa8e0833b.jpg)
-![Tarle](https://user-images.githubusercontent.com/85336913/120768973-3eb3ef80-c54f-11eb-9762-58ccc82148d2.jpg)
-![Tolentino](https://user-images.githubusercontent.com/85336913/120768977-3f4c8600-c54f-11eb-9185-1a9807704182.jpg)
-![Umbal](https://user-images.githubusercontent.com/85336913/120768978-3fe51c80-c54f-11eb-8c4d-58eb45aec588.jpg)
-![but](https://user-images.githubusercontent.com/85336913/120769027-4a9fb180-c54f-11eb-94db-997fb113abf2.jpg)
-![Embuestro](https://user-images.githubusercontent.com/85336913/120769034-4d9aa200-c54f-11eb-8b89-9590db0d88cb.jpg)
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
